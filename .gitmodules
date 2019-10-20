@@ -1,0 +1,9 @@
+[submodule "bottlescanner"]
+	path = bottlescanner
+	url = https://github.com/CommoDor64/bottlescanner.git
+[submodule "Pepito"]
+	path = Pepito
+	url = https://github.com/SanderVerkuil/Pepito
+[submodule "PepitoFrontend"]
+	path = PepitoFrontend
+	url = https://github.com/SanderVerkuil/PepitoFrontend
